@@ -2,8 +2,9 @@
 <project version="4">
   <component name="ProjectModuleManager">
     <modules>
+      <module fileurl="file://$PROJECT_DIR$/Firstprogram.iml" filepath="$PROJECT_DIR$/Firstprogram.iml" />
       <module fileurl="file://$PROJECT_DIR$/Variable/Variable.iml" filepath="$PROJECT_DIR$/Variable/Variable.iml" />
-      <module fileurl="file://$PROJECT_DIR$/brocode.iml" filepath="$PROJECT_DIR$/brocode.iml" />
+      <module fileurl="file://$PROJECT_DIR$/swapnumbers/swapnumbers.iml" filepath="$PROJECT_DIR$/swapnumbers/swapnumbers.iml" />
     </modules>
   </component>
 </project>
