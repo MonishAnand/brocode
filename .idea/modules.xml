@@ -2,9 +2,10 @@
 <project version="4">
   <component name="ProjectModuleManager">
     <modules>
-      <module fileurl="file://$PROJECT_DIR$/Firstprogram.iml" filepath="$PROJECT_DIR$/Firstprogram.iml" />
-      <module fileurl="file://$PROJECT_DIR$/Variable/Variable.iml" filepath="$PROJECT_DIR$/Variable/Variable.iml" />
-      <module fileurl="file://$PROJECT_DIR$/swapnumbers/swapnumbers.iml" filepath="$PROJECT_DIR$/swapnumbers/swapnumbers.iml" />
+      <module fileurl="file://$PROJECT_DIR$/1-Firstprogram.iml" filepath="$PROJECT_DIR$/1-Firstprogram.iml" />
+      <module fileurl="file://$PROJECT_DIR$/2-Variable/2-Variable.iml" filepath="$PROJECT_DIR$/2-Variable/2-Variable.iml" />
+      <module fileurl="file://$PROJECT_DIR$/3-swapvariables/3-swapvariables.iml" filepath="$PROJECT_DIR$/3-swapvariables/3-swapvariables.iml" />
+      <module fileurl="file://$PROJECT_DIR$/4-userinput/4-userinput.iml" filepath="$PROJECT_DIR$/4-userinput/4-userinput.iml" />
     </modules>
   </component>
 </project>

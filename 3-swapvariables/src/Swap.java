@@ -3,7 +3,7 @@ public class Swap {
         int x=1;
         int y=2;
         int temp;
-        temp = x;
+        temp=x;
         x=y;
         y=temp;
         System.out.println(x);
