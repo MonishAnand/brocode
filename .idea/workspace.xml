@@ -4,8 +4,8 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="86889a16-c0ba-4e35-b624-6a3bf2f3c587" name="Changes" comment="expression">
-      <change afterPath="$PROJECT_DIR$/6-GUIintro/src/Main.java" afterDir="false" />
+    <list default="true" id="86889a16-c0ba-4e35-b624-6a3bf2f3c587" name="Changes" comment="GUIintro">
+      <change afterPath="$PROJECT_DIR$/7-Mathclass/src/Mathclass.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -104,7 +104,14 @@
       <option name="project" value="LOCAL" />
       <updated>1678194445011</updated>
     </task>
-    <option name="localTasksCounter" value="7" />
+    <task id="LOCAL-00007" summary="GUIintro">
+      <created>1678199317457</created>
+      <option name="number" value="00007" />
+      <option name="presentableId" value="LOCAL-00007" />
+      <option name="project" value="LOCAL" />
+      <updated>1678199317457</updated>
+    </task>
+    <option name="localTasksCounter" value="8" />
     <servers />
   </component>
   <component name="VcsManagerConfiguration">
@@ -114,6 +121,7 @@
     <MESSAGE value="Swapvariables" />
     <MESSAGE value="userinput" />
     <MESSAGE value="expression" />
-    <option name="LAST_COMMIT_MESSAGE" value="expression" />
+    <MESSAGE value="GUIintro" />
+    <option name="LAST_COMMIT_MESSAGE" value="GUIintro" />
   </component>
 </project>
