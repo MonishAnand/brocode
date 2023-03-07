@@ -4,17 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="86889a16-c0ba-4e35-b624-6a3bf2f3c587" name="Changes" comment="Swapvariables">
-      <change afterPath="$PROJECT_DIR$/2-Variable/2-Variable.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/3-swapvariables/3-swapvariables.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/4-userinput/4-userinput.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/4-userinput/src/Userinput.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/modules.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Firstprogram.iml" beforeDir="false" afterPath="$PROJECT_DIR$/1-Firstprogram.iml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Variable/src/Variable.java" beforeDir="false" afterPath="$PROJECT_DIR$/2-Variable/src/Variable.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/swapnumbers/src/Swap.java" beforeDir="false" afterPath="$PROJECT_DIR$/3-swapvariables/src/Swap.java" afterDir="false" />
-    </list>
+    <list default="true" id="86889a16-c0ba-4e35-b624-6a3bf2f3c587" name="Changes" comment="userinput" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -98,7 +88,14 @@
       <option name="project" value="LOCAL" />
       <updated>1678120926729</updated>
     </task>
-    <option name="localTasksCounter" value="5" />
+    <task id="LOCAL-00005" summary="userinput">
+      <created>1678192381087</created>
+      <option name="number" value="00005" />
+      <option name="presentableId" value="LOCAL-00005" />
+      <option name="project" value="LOCAL" />
+      <updated>1678192381090</updated>
+    </task>
+    <option name="localTasksCounter" value="6" />
     <servers />
   </component>
   <component name="VcsManagerConfiguration">
@@ -106,6 +103,7 @@
     <MESSAGE value="firstcommitredonecorrect" />
     <MESSAGE value="Variable" />
     <MESSAGE value="Swapvariables" />
-    <option name="LAST_COMMIT_MESSAGE" value="Swapvariables" />
+    <MESSAGE value="userinput" />
+    <option name="LAST_COMMIT_MESSAGE" value="userinput" />
   </component>
 </project>
