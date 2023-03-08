@@ -4,10 +4,8 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="86889a16-c0ba-4e35-b624-6a3bf2f3c587" name="Changes" comment="Whileloop">
-      <change afterPath="$PROJECT_DIR$/13-Forloop/src/Forloop.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/modules.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+    <list default="true" id="86889a16-c0ba-4e35-b624-6a3bf2f3c587" name="Changes" comment="Forloop">
+      <change afterPath="$PROJECT_DIR$/14-Nestedloop/src/Nested.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -143,7 +141,14 @@
       <option name="project" value="LOCAL" />
       <updated>1678241039264</updated>
     </task>
-    <option name="localTasksCounter" value="14" />
+    <task id="LOCAL-00014" summary="Forloop">
+      <created>1678241803165</created>
+      <option name="number" value="00014" />
+      <option name="presentableId" value="LOCAL-00014" />
+      <option name="project" value="LOCAL" />
+      <updated>1678241803165</updated>
+    </task>
+    <option name="localTasksCounter" value="15" />
     <servers />
   </component>
   <component name="VcsManagerConfiguration">
@@ -159,6 +164,7 @@
     <MESSAGE value="switch" />
     <MESSAGE value="logicaloperators" />
     <MESSAGE value="Whileloop" />
-    <option name="LAST_COMMIT_MESSAGE" value="Whileloop" />
+    <MESSAGE value="Forloop" />
+    <option name="LAST_COMMIT_MESSAGE" value="Forloop" />
   </component>
 </project>
