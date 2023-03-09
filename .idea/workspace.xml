@@ -4,11 +4,8 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="86889a16-c0ba-4e35-b624-6a3bf2f3c587" name="Changes" comment="2D-Array">
-      <change afterPath="$PROJECT_DIR$/15-Arrays/15-Arrays.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/16-2Darray/16-2Darray.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/17-Stringmethods/17-Stringmethods.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/17-Stringmethods/src/Stringmethod.java" afterDir="false" />
+    <list default="true" id="86889a16-c0ba-4e35-b624-6a3bf2f3c587" name="Changes" comment="Stringmethods">
+      <change afterPath="$PROJECT_DIR$/18-Wrapperclass/src/Wrapper.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/modules.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
@@ -174,7 +171,14 @@
       <option name="project" value="LOCAL" />
       <updated>1678375276755</updated>
     </task>
-    <option name="localTasksCounter" value="18" />
+    <task id="LOCAL-00018" summary="Stringmethods">
+      <created>1678376787895</created>
+      <option name="number" value="00018" />
+      <option name="presentableId" value="LOCAL-00018" />
+      <option name="project" value="LOCAL" />
+      <updated>1678376787895</updated>
+    </task>
+    <option name="localTasksCounter" value="19" />
     <servers />
   </component>
   <component name="VcsManagerConfiguration">
@@ -194,6 +198,7 @@
     <MESSAGE value="nestedloop" />
     <MESSAGE value="Array" />
     <MESSAGE value="2D-Array" />
-    <option name="LAST_COMMIT_MESSAGE" value="2D-Array" />
+    <MESSAGE value="Stringmethods" />
+    <option name="LAST_COMMIT_MESSAGE" value="Stringmethods" />
   </component>
 </project>
