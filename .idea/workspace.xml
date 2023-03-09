@@ -4,8 +4,11 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="86889a16-c0ba-4e35-b624-6a3bf2f3c587" name="Changes" comment="Array">
-      <change afterPath="$PROJECT_DIR$/16-2Darray/src/array2d.java" afterDir="false" />
+    <list default="true" id="86889a16-c0ba-4e35-b624-6a3bf2f3c587" name="Changes" comment="2D-Array">
+      <change afterPath="$PROJECT_DIR$/15-Arrays/15-Arrays.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/16-2Darray/16-2Darray.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/17-Stringmethods/17-Stringmethods.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/17-Stringmethods/src/Stringmethod.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/modules.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
@@ -39,6 +42,7 @@
   "keyToString": {
     "RunOnceActivity.OpenProjectViewOnStart": "true",
     "RunOnceActivity.ShowReadmeOnStart": "true",
+    "SHARE_PROJECT_CONFIGURATION_FILES": "true",
     "jdk.selected.JAVA_MODULE": "19"
   }
 }]]></component>
@@ -163,7 +167,14 @@
       <option name="project" value="LOCAL" />
       <updated>1678373525563</updated>
     </task>
-    <option name="localTasksCounter" value="17" />
+    <task id="LOCAL-00017" summary="2D-Array">
+      <created>1678375276755</created>
+      <option name="number" value="00017" />
+      <option name="presentableId" value="LOCAL-00017" />
+      <option name="project" value="LOCAL" />
+      <updated>1678375276755</updated>
+    </task>
+    <option name="localTasksCounter" value="18" />
     <servers />
   </component>
   <component name="VcsManagerConfiguration">
@@ -182,6 +193,7 @@
     <MESSAGE value="Forloop" />
     <MESSAGE value="nestedloop" />
     <MESSAGE value="Array" />
-    <option name="LAST_COMMIT_MESSAGE" value="Array" />
+    <MESSAGE value="2D-Array" />
+    <option name="LAST_COMMIT_MESSAGE" value="2D-Array" />
   </component>
 </project>
