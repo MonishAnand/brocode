@@ -4,12 +4,9 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="86889a16-c0ba-4e35-b624-6a3bf2f3c587" name="Changes" comment="Wrapperclass">
-      <change afterPath="$PROJECT_DIR$/18-Wrapperclass/18-Wrapperclass.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/19-Arraylist/19-Arraylist.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/19-Arraylist/src/Arraylist.java" afterDir="false" />
+    <list default="true" id="86889a16-c0ba-4e35-b624-6a3bf2f3c587" name="Changes" comment="Arraylist">
+      <change afterPath="$PROJECT_DIR$/20-2DArraylist/src/Arraylist2d.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/modules.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -187,7 +184,14 @@
       <option name="project" value="LOCAL" />
       <updated>1678377962788</updated>
     </task>
-    <option name="localTasksCounter" value="20" />
+    <task id="LOCAL-00020" summary="Arraylist">
+      <created>1678409664258</created>
+      <option name="number" value="00020" />
+      <option name="presentableId" value="LOCAL-00020" />
+      <option name="project" value="LOCAL" />
+      <updated>1678409664258</updated>
+    </task>
+    <option name="localTasksCounter" value="21" />
     <servers />
   </component>
   <component name="VcsManagerConfiguration">
@@ -209,6 +213,7 @@
     <MESSAGE value="2D-Array" />
     <MESSAGE value="Stringmethods" />
     <MESSAGE value="Wrapperclass" />
-    <option name="LAST_COMMIT_MESSAGE" value="Wrapperclass" />
+    <MESSAGE value="Arraylist" />
+    <option name="LAST_COMMIT_MESSAGE" value="Arraylist" />
   </component>
 </project>
