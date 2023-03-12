@@ -27,6 +27,7 @@
       <module fileurl="file://$PROJECT_DIR$/23-OverloadedMethod/23-OverloadedMethod.iml" filepath="$PROJECT_DIR$/23-OverloadedMethod/23-OverloadedMethod.iml" />
       <module fileurl="file://$PROJECT_DIR$/24-PrintF/24-PrintF.iml" filepath="$PROJECT_DIR$/24-PrintF/24-PrintF.iml" />
       <module fileurl="file://$PROJECT_DIR$/25-Finalkeyword/25-Finalkeyword.iml" filepath="$PROJECT_DIR$/25-Finalkeyword/25-Finalkeyword.iml" />
+      <module fileurl="file://$PROJECT_DIR$/26-Objects/26-Objects.iml" filepath="$PROJECT_DIR$/26-Objects/26-Objects.iml" />
     </modules>
   </component>
 </project>
