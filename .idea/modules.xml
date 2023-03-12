@@ -2,7 +2,15 @@
 <project version="4">
   <component name="ProjectModuleManager">
     <modules>
-      <module fileurl="file://$PROJECT_DIR$/1-Firstprogram.iml" filepath="$PROJECT_DIR$/1-Firstprogram.iml" />
+      <module fileurl="file://$PROJECT_DIR$/01-Firstprogram.iml" filepath="$PROJECT_DIR$/01-Firstprogram.iml" />
+      <module fileurl="file://$PROJECT_DIR$/02-Variable/02-Variable.iml" filepath="$PROJECT_DIR$/02-Variable/02-Variable.iml" />
+      <module fileurl="file://$PROJECT_DIR$/03-swapvariables/03-swapvariables.iml" filepath="$PROJECT_DIR$/03-swapvariables/03-swapvariables.iml" />
+      <module fileurl="file://$PROJECT_DIR$/04-userinput/04-userinput.iml" filepath="$PROJECT_DIR$/04-userinput/04-userinput.iml" />
+      <module fileurl="file://$PROJECT_DIR$/05-Expressions/05-Expressions.iml" filepath="$PROJECT_DIR$/05-Expressions/05-Expressions.iml" />
+      <module fileurl="file://$PROJECT_DIR$/06-GUIintro/06-GUIintro.iml" filepath="$PROJECT_DIR$/06-GUIintro/06-GUIintro.iml" />
+      <module fileurl="file://$PROJECT_DIR$/07-Mathclass/07-Mathclass.iml" filepath="$PROJECT_DIR$/07-Mathclass/07-Mathclass.iml" />
+      <module fileurl="file://$PROJECT_DIR$/08-Randomnumbers/08-Randomnumbers.iml" filepath="$PROJECT_DIR$/08-Randomnumbers/08-Randomnumbers.iml" />
+      <module fileurl="file://$PROJECT_DIR$/09-Ifstatements/09-Ifstatements.iml" filepath="$PROJECT_DIR$/09-Ifstatements/09-Ifstatements.iml" />
       <module fileurl="file://$PROJECT_DIR$/10-switch/10-switch.iml" filepath="$PROJECT_DIR$/10-switch/10-switch.iml" />
       <module fileurl="file://$PROJECT_DIR$/11-Logicaloperator/11-Logicaloperator.iml" filepath="$PROJECT_DIR$/11-Logicaloperator/11-Logicaloperator.iml" />
       <module fileurl="file://$PROJECT_DIR$/12-Whileloop/12-Whileloop.iml" filepath="$PROJECT_DIR$/12-Whileloop/12-Whileloop.iml" />
@@ -13,18 +21,11 @@
       <module fileurl="file://$PROJECT_DIR$/17-Stringmethods/17-Stringmethods.iml" filepath="$PROJECT_DIR$/17-Stringmethods/17-Stringmethods.iml" />
       <module fileurl="file://$PROJECT_DIR$/18-Wrapperclass/18-Wrapperclass.iml" filepath="$PROJECT_DIR$/18-Wrapperclass/18-Wrapperclass.iml" />
       <module fileurl="file://$PROJECT_DIR$/19-Arraylist/19-Arraylist.iml" filepath="$PROJECT_DIR$/19-Arraylist/19-Arraylist.iml" />
-      <module fileurl="file://$PROJECT_DIR$/2-Variable/2-Variable.iml" filepath="$PROJECT_DIR$/2-Variable/2-Variable.iml" />
       <module fileurl="file://$PROJECT_DIR$/20-2DArraylist/20-2DArraylist.iml" filepath="$PROJECT_DIR$/20-2DArraylist/20-2DArraylist.iml" />
       <module fileurl="file://$PROJECT_DIR$/21-For each loop/21-For each loop.iml" filepath="$PROJECT_DIR$/21-For each loop/21-For each loop.iml" />
       <module fileurl="file://$PROJECT_DIR$/22-Methods/22-Methods.iml" filepath="$PROJECT_DIR$/22-Methods/22-Methods.iml" />
       <module fileurl="file://$PROJECT_DIR$/23-OverloadedMethod/23-OverloadedMethod.iml" filepath="$PROJECT_DIR$/23-OverloadedMethod/23-OverloadedMethod.iml" />
-      <module fileurl="file://$PROJECT_DIR$/3-swapvariables/3-swapvariables.iml" filepath="$PROJECT_DIR$/3-swapvariables/3-swapvariables.iml" />
-      <module fileurl="file://$PROJECT_DIR$/4-userinput/4-userinput.iml" filepath="$PROJECT_DIR$/4-userinput/4-userinput.iml" />
-      <module fileurl="file://$PROJECT_DIR$/5-Expressions/5-Expressions.iml" filepath="$PROJECT_DIR$/5-Expressions/5-Expressions.iml" />
-      <module fileurl="file://$PROJECT_DIR$/6-GUIintro/6-GUIintro.iml" filepath="$PROJECT_DIR$/6-GUIintro/6-GUIintro.iml" />
-      <module fileurl="file://$PROJECT_DIR$/7-Mathclass/7-Mathclass.iml" filepath="$PROJECT_DIR$/7-Mathclass/7-Mathclass.iml" />
-      <module fileurl="file://$PROJECT_DIR$/8-Randomnumbers/8-Randomnumbers.iml" filepath="$PROJECT_DIR$/8-Randomnumbers/8-Randomnumbers.iml" />
-      <module fileurl="file://$PROJECT_DIR$/9-Ifstatements/9-Ifstatements.iml" filepath="$PROJECT_DIR$/9-Ifstatements/9-Ifstatements.iml" />
+      <module fileurl="file://$PROJECT_DIR$/24-PrintF/24-PrintF.iml" filepath="$PROJECT_DIR$/24-PrintF/24-PrintF.iml" />
     </modules>
   </component>
 </project>
