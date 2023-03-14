@@ -4,12 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="86889a16-c0ba-4e35-b624-6a3bf2f3c587" name="Changes" comment="Objectpassing">
-      <change afterPath="$PROJECT_DIR$/33-Statickeyword/33-Statickeyword.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/33-Statickeyword/src/Friend.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/modules.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-    </list>
+    <list default="true" id="86889a16-c0ba-4e35-b624-6a3bf2f3c587" name="Changes" comment="Statickeyword" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -277,11 +272,17 @@
       <option name="project" value="LOCAL" />
       <updated>1678807889160</updated>
     </task>
-    <option name="localTasksCounter" value="33" />
+    <task id="LOCAL-00033" summary="Statickeyword">
+      <created>1678809632710</created>
+      <option name="number" value="00033" />
+      <option name="presentableId" value="LOCAL-00033" />
+      <option name="project" value="LOCAL" />
+      <updated>1678809632710</updated>
+    </task>
+    <option name="localTasksCounter" value="34" />
     <servers />
   </component>
   <component name="VcsManagerConfiguration">
-    <MESSAGE value="GUIintro" />
     <MESSAGE value="randomnumbers" />
     <MESSAGE value="if" />
     <MESSAGE value="switch" />
@@ -306,6 +307,7 @@
     <MESSAGE value="toString()" />
     <MESSAGE value="Arrayofobjects" />
     <MESSAGE value="Objectpassing" />
-    <option name="LAST_COMMIT_MESSAGE" value="Objectpassing" />
+    <MESSAGE value="Statickeyword" />
+    <option name="LAST_COMMIT_MESSAGE" value="Statickeyword" />
   </component>
 </project>
