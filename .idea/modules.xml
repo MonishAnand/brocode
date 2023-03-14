@@ -34,6 +34,7 @@
       <module fileurl="file://$PROJECT_DIR$/30-toString()/30-toString().iml" filepath="$PROJECT_DIR$/30-toString()/30-toString().iml" />
       <module fileurl="file://$PROJECT_DIR$/31-Arrayofobjects/31-Arrayofobjects.iml" filepath="$PROJECT_DIR$/31-Arrayofobjects/31-Arrayofobjects.iml" />
       <module fileurl="file://$PROJECT_DIR$/32-Objectpassing/32-Objectpassing.iml" filepath="$PROJECT_DIR$/32-Objectpassing/32-Objectpassing.iml" />
+      <module fileurl="file://$PROJECT_DIR$/33-Statickeyword/33-Statickeyword.iml" filepath="$PROJECT_DIR$/33-Statickeyword/33-Statickeyword.iml" />
     </modules>
   </component>
 </project>
