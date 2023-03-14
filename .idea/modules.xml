@@ -32,6 +32,7 @@
       <module fileurl="file://$PROJECT_DIR$/28-Variablescope/28-Variablescope.iml" filepath="$PROJECT_DIR$/28-Variablescope/28-Variablescope.iml" />
       <module fileurl="file://$PROJECT_DIR$/29-OverloadedConstructor/29-OverloadedConstructor.iml" filepath="$PROJECT_DIR$/29-OverloadedConstructor/29-OverloadedConstructor.iml" />
       <module fileurl="file://$PROJECT_DIR$/30-toString()/30-toString().iml" filepath="$PROJECT_DIR$/30-toString()/30-toString().iml" />
+      <module fileurl="file://$PROJECT_DIR$/31-Arrayofobjects/31-Arrayofobjects.iml" filepath="$PROJECT_DIR$/31-Arrayofobjects/31-Arrayofobjects.iml" />
     </modules>
   </component>
 </project>
