@@ -4,8 +4,12 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="86889a16-c0ba-4e35-b624-6a3bf2f3c587" name="Changes" comment="toString()">
-      <change afterPath="$PROJECT_DIR$/31-Arrayofobjects/src/Food.java" afterDir="false" />
+    <list default="true" id="86889a16-c0ba-4e35-b624-6a3bf2f3c587" name="Changes" comment="Arrayofobjects">
+      <change afterPath="$PROJECT_DIR$/32-Objectpassing/32-Objectpassing.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/32-Objectpassing/src/Car.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/32-Objectpassing/src/Garage.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/32-Objectpassing/src/Main.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/modules.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -34,13 +38,14 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent">{
-  &quot;keyToString&quot;: {
-    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
-    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
-    &quot;jdk.selected.JAVA_MODULE&quot;: &quot;19&quot;
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "RunOnceActivity.OpenProjectViewOnStart": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "SHARE_PROJECT_CONFIGURATION_FILES": "true",
+    "jdk.selected.JAVA_MODULE": "19"
   }
-}</component>
+}]]></component>
   <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
   <component name="TaskManager">
     <task active="true" id="Default" summary="Default task">
@@ -260,11 +265,17 @@
       <option name="project" value="LOCAL" />
       <updated>1678720693066</updated>
     </task>
-    <option name="localTasksCounter" value="31" />
+    <task id="LOCAL-00031" summary="Arrayofobjects">
+      <created>1678806729202</created>
+      <option name="number" value="00031" />
+      <option name="presentableId" value="LOCAL-00031" />
+      <option name="project" value="LOCAL" />
+      <updated>1678806729202</updated>
+    </task>
+    <option name="localTasksCounter" value="32" />
     <servers />
   </component>
   <component name="VcsManagerConfiguration">
-    <MESSAGE value="userinput" />
     <MESSAGE value="expression" />
     <MESSAGE value="GUIintro" />
     <MESSAGE value="randomnumbers" />
@@ -289,6 +300,7 @@
     <MESSAGE value="Variablescope" />
     <MESSAGE value="Overloaded Constructor" />
     <MESSAGE value="toString()" />
-    <option name="LAST_COMMIT_MESSAGE" value="toString()" />
+    <MESSAGE value="Arrayofobjects" />
+    <option name="LAST_COMMIT_MESSAGE" value="Arrayofobjects" />
   </component>
 </project>
