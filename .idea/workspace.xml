@@ -4,12 +4,8 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="86889a16-c0ba-4e35-b624-6a3bf2f3c587" name="Changes" comment="Statickeyword2">
-      <change afterPath="$PROJECT_DIR$/34-Inheritance/34-Inheritance.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/34-Inheritance/src/Car.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/34-Inheritance/src/Cycle.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/34-Inheritance/src/Main.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/34-Inheritance/src/Vehicle.java" afterDir="false" />
+    <list default="true" id="86889a16-c0ba-4e35-b624-6a3bf2f3c587" name="Changes" comment="Inheritance">
+      <change afterPath="$PROJECT_DIR$/35-Method overriding/src/Main.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/modules.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
@@ -47,7 +43,14 @@
     &quot;jdk.selected.JAVA_MODULE&quot;: &quot;19&quot;
   }
 }</component>
-  <component name="RunManager">
+  <component name="RunManager" selected="Application.Main (1)">
+    <configuration name="Main (1)" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Main" />
+      <module name="35-Method overriding" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <configuration name="Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="Main" />
       <module name="34-Inheritance" />
@@ -57,6 +60,7 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.Main (1)" />
         <item itemvalue="Application.Main" />
       </list>
     </recent_temporary>
@@ -308,11 +312,17 @@
       <option name="project" value="LOCAL" />
       <updated>1678810123917</updated>
     </task>
-    <option name="localTasksCounter" value="35" />
+    <task id="LOCAL-00035" summary="Inheritance">
+      <created>1678891268227</created>
+      <option name="number" value="00035" />
+      <option name="presentableId" value="LOCAL-00035" />
+      <option name="project" value="LOCAL" />
+      <updated>1678891268227</updated>
+    </task>
+    <option name="localTasksCounter" value="36" />
     <servers />
   </component>
   <component name="VcsManagerConfiguration">
-    <MESSAGE value="if" />
     <MESSAGE value="switch" />
     <MESSAGE value="logicaloperators" />
     <MESSAGE value="Whileloop" />
@@ -337,6 +347,7 @@
     <MESSAGE value="Objectpassing" />
     <MESSAGE value="Statickeyword" />
     <MESSAGE value="Statickeyword2" />
-    <option name="LAST_COMMIT_MESSAGE" value="Statickeyword2" />
+    <MESSAGE value="Inheritance" />
+    <option name="LAST_COMMIT_MESSAGE" value="Inheritance" />
   </component>
 </project>
