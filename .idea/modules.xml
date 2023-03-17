@@ -38,6 +38,7 @@
       <module fileurl="file://$PROJECT_DIR$/34-Inheritance/34-Inheritance.iml" filepath="$PROJECT_DIR$/34-Inheritance/34-Inheritance.iml" />
       <module fileurl="file://$PROJECT_DIR$/35-Method overriding/35-Method overriding.iml" filepath="$PROJECT_DIR$/35-Method overriding/35-Method overriding.iml" />
       <module fileurl="file://$PROJECT_DIR$/36-Superkeyword/36-Superkeyword.iml" filepath="$PROJECT_DIR$/36-Superkeyword/36-Superkeyword.iml" />
+      <module fileurl="file://$PROJECT_DIR$/37-Abstraction/37-Abstraction.iml" filepath="$PROJECT_DIR$/37-Abstraction/37-Abstraction.iml" />
     </modules>
   </component>
 </project>
