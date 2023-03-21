@@ -14,10 +14,10 @@ class car{
         return name;
     }
     public int getYear(){
-        return setYear(year);
+        return year;
     }
     public int setYear(int year){
-        return year;
+        return this.year=year;
     }
 }
 class Main {
