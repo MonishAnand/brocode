@@ -4,15 +4,8 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="86889a16-c0ba-4e35-b624-6a3bf2f3c587" name="Changes" comment="Abstraction">
-      <change afterPath="$PROJECT_DIR$/35-Method overriding/35-Method overriding.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/36-Superkeyword/36-Superkeyword.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/37-Abstraction/37-Abstraction.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/38-Access modifiers/38-Access modifiers.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/38-Access modifiers/src/package1/A.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/38-Access modifiers/src/package1/B.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/38-Access modifiers/src/package2/Asub.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/38-Access modifiers/src/package2/C.java" afterDir="false" />
+    <list default="true" id="86889a16-c0ba-4e35-b624-6a3bf2f3c587" name="Changes" comment="access modifier">
+      <change afterPath="$PROJECT_DIR$/39-Encapsulation/src/Main.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/modules.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
@@ -50,7 +43,7 @@
     &quot;jdk.selected.JAVA_MODULE&quot;: &quot;19&quot;
   }
 }</component>
-  <component name="RunManager" selected="Application.B">
+  <component name="RunManager" selected="Application.Main">
     <configuration name="A" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="package1.A" />
       <module name="38-Access modifiers" />
@@ -90,13 +83,6 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Main (2)" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Main" />
-      <module name="36-Superkeyword" />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
     <configuration name="Main (3)" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="Main" />
       <module name="37-Abstraction" />
@@ -104,13 +90,20 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
+    <configuration name="Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Main" />
+      <module name="39-Encapsulation" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.Main" />
         <item itemvalue="Application.B" />
         <item itemvalue="Application.Asub" />
         <item itemvalue="Application.A" />
         <item itemvalue="Application.Main (3)" />
-        <item itemvalue="Application.Main (2)" />
       </list>
     </recent_temporary>
   </component>
@@ -389,11 +382,17 @@
       <option name="project" value="LOCAL" />
       <updated>1679063811136</updated>
     </task>
-    <option name="localTasksCounter" value="39" />
+    <task id="LOCAL-00039" summary="access modifier">
+      <created>1679319396123</created>
+      <option name="number" value="00039" />
+      <option name="presentableId" value="LOCAL-00039" />
+      <option name="project" value="LOCAL" />
+      <updated>1679319396123</updated>
+    </task>
+    <option name="localTasksCounter" value="40" />
     <servers />
   </component>
   <component name="VcsManagerConfiguration">
-    <MESSAGE value="Forloop" />
     <MESSAGE value="nestedloop" />
     <MESSAGE value="Array" />
     <MESSAGE value="2D-Array" />
@@ -418,6 +417,7 @@
     <MESSAGE value="method overriding" />
     <MESSAGE value="Super" />
     <MESSAGE value="Abstraction" />
-    <option name="LAST_COMMIT_MESSAGE" value="Abstraction" />
+    <MESSAGE value="access modifier" />
+    <option name="LAST_COMMIT_MESSAGE" value="access modifier" />
   </component>
 </project>
