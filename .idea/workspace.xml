@@ -4,8 +4,10 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="86889a16-c0ba-4e35-b624-6a3bf2f3c587" name="Changes" comment="access modifier">
-      <change afterPath="$PROJECT_DIR$/39-Encapsulation/src/Main.java" afterDir="false" />
+    <list default="true" id="86889a16-c0ba-4e35-b624-6a3bf2f3c587" name="Changes" comment="Encapsulation2">
+      <change afterPath="$PROJECT_DIR$/40-copy objects/40-copy objects.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/40-copy objects/src/Car.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/40-copy objects/src/Main.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/modules.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
@@ -43,7 +45,7 @@
     &quot;jdk.selected.JAVA_MODULE&quot;: &quot;19&quot;
   }
 }</component>
-  <component name="RunManager" selected="Application.Main">
+  <component name="RunManager" selected="Application.Main (1)">
     <configuration name="A" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="package1.A" />
       <module name="38-Access modifiers" />
@@ -83,9 +85,9 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Main (3)" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+    <configuration name="Main (1)" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="Main" />
-      <module name="37-Abstraction" />
+      <module name="40-copy objects" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
@@ -99,11 +101,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.Main (1)" />
         <item itemvalue="Application.Main" />
         <item itemvalue="Application.B" />
         <item itemvalue="Application.Asub" />
         <item itemvalue="Application.A" />
-        <item itemvalue="Application.Main (3)" />
       </list>
     </recent_temporary>
   </component>
@@ -389,12 +391,24 @@
       <option name="project" value="LOCAL" />
       <updated>1679319396123</updated>
     </task>
-    <option name="localTasksCounter" value="40" />
+    <task id="LOCAL-00040" summary="Encapsulation">
+      <created>1679413141886</created>
+      <option name="number" value="00040" />
+      <option name="presentableId" value="LOCAL-00040" />
+      <option name="project" value="LOCAL" />
+      <updated>1679413141886</updated>
+    </task>
+    <task id="LOCAL-00041" summary="Encapsulation2">
+      <created>1679413342199</created>
+      <option name="number" value="00041" />
+      <option name="presentableId" value="LOCAL-00041" />
+      <option name="project" value="LOCAL" />
+      <updated>1679413342199</updated>
+    </task>
+    <option name="localTasksCounter" value="42" />
     <servers />
   </component>
   <component name="VcsManagerConfiguration">
-    <MESSAGE value="nestedloop" />
-    <MESSAGE value="Array" />
     <MESSAGE value="2D-Array" />
     <MESSAGE value="Stringmethods" />
     <MESSAGE value="Wrapperclass" />
@@ -418,6 +432,8 @@
     <MESSAGE value="Super" />
     <MESSAGE value="Abstraction" />
     <MESSAGE value="access modifier" />
-    <option name="LAST_COMMIT_MESSAGE" value="access modifier" />
+    <MESSAGE value="Encapsulation" />
+    <MESSAGE value="Encapsulation2" />
+    <option name="LAST_COMMIT_MESSAGE" value="Encapsulation2" />
   </component>
 </project>
