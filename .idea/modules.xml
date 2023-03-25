@@ -42,6 +42,7 @@
       <module fileurl="file://$PROJECT_DIR$/38-Access modifiers/38-Access modifiers.iml" filepath="$PROJECT_DIR$/38-Access modifiers/38-Access modifiers.iml" />
       <module fileurl="file://$PROJECT_DIR$/39-Encapsulation/39-Encapsulation.iml" filepath="$PROJECT_DIR$/39-Encapsulation/39-Encapsulation.iml" />
       <module fileurl="file://$PROJECT_DIR$/40-copy objects/40-copy objects.iml" filepath="$PROJECT_DIR$/40-copy objects/40-copy objects.iml" />
+      <module fileurl="file://$PROJECT_DIR$/41-Interface/41-Interface.iml" filepath="$PROJECT_DIR$/41-Interface/41-Interface.iml" />
     </modules>
   </component>
 </project>

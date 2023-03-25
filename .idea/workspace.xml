@@ -4,11 +4,8 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="86889a16-c0ba-4e35-b624-6a3bf2f3c587" name="Changes" comment="Encapsulation2">
-      <change afterPath="$PROJECT_DIR$/40-copy objects/40-copy objects.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/40-copy objects/src/Car.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/40-copy objects/src/Main.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/modules.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
+    <list default="true" id="86889a16-c0ba-4e35-b624-6a3bf2f3c587" name="Changes" comment="copy objects">
+      <change afterPath="$PROJECT_DIR$/41-Interface/src/Main.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -45,20 +42,7 @@
     &quot;jdk.selected.JAVA_MODULE&quot;: &quot;19&quot;
   }
 }</component>
-  <component name="RunManager" selected="Application.Main (1)">
-    <configuration name="A" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="package1.A" />
-      <module name="38-Access modifiers" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="package1.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
+  <component name="RunManager" selected="Application.Main (2)">
     <configuration name="Asub" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="package2.Asub" />
       <module name="38-Access modifiers" />
@@ -92,6 +76,13 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
+    <configuration name="Main (2)" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Main" />
+      <module name="41-Interface" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <configuration name="Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="Main" />
       <module name="39-Encapsulation" />
@@ -101,11 +92,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.Main (2)" />
         <item itemvalue="Application.Main (1)" />
         <item itemvalue="Application.Main" />
         <item itemvalue="Application.B" />
         <item itemvalue="Application.Asub" />
-        <item itemvalue="Application.A" />
       </list>
     </recent_temporary>
   </component>
@@ -405,11 +396,17 @@
       <option name="project" value="LOCAL" />
       <updated>1679413342199</updated>
     </task>
-    <option name="localTasksCounter" value="42" />
+    <task id="LOCAL-00042" summary="copy objects">
+      <created>1679498312425</created>
+      <option name="number" value="00042" />
+      <option name="presentableId" value="LOCAL-00042" />
+      <option name="project" value="LOCAL" />
+      <updated>1679498312425</updated>
+    </task>
+    <option name="localTasksCounter" value="43" />
     <servers />
   </component>
   <component name="VcsManagerConfiguration">
-    <MESSAGE value="2D-Array" />
     <MESSAGE value="Stringmethods" />
     <MESSAGE value="Wrapperclass" />
     <MESSAGE value="Arraylist" />
@@ -434,6 +431,7 @@
     <MESSAGE value="access modifier" />
     <MESSAGE value="Encapsulation" />
     <MESSAGE value="Encapsulation2" />
-    <option name="LAST_COMMIT_MESSAGE" value="Encapsulation2" />
+    <MESSAGE value="copy objects" />
+    <option name="LAST_COMMIT_MESSAGE" value="copy objects" />
   </component>
 </project>
