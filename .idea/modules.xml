@@ -46,6 +46,8 @@
       <module fileurl="file://$PROJECT_DIR$/42-polymorphism/42-polymorphism.iml" filepath="$PROJECT_DIR$/42-polymorphism/42-polymorphism.iml" />
       <module fileurl="file://$PROJECT_DIR$/43-dynamic polymorphism/43-dynamic polymorphism.iml" filepath="$PROJECT_DIR$/43-dynamic polymorphism/43-dynamic polymorphism.iml" />
       <module fileurl="file://$PROJECT_DIR$/44-Exception handling/44-Exception handling.iml" filepath="$PROJECT_DIR$/44-Exception handling/44-Exception handling.iml" />
+      <module fileurl="file://$PROJECT_DIR$/45-Fileclass/45-Fileclass.iml" filepath="$PROJECT_DIR$/45-Fileclass/45-Fileclass.iml" />
+      <module fileurl="file://$PROJECT_DIR$/46-Filewriter/46-Filewriter.iml" filepath="$PROJECT_DIR$/46-Filewriter/46-Filewriter.iml" />
     </modules>
   </component>
 </project>

@@ -19,5 +19,8 @@ public class Main {
        catch (Exception e){
            System.out.println("some error occurred");
        }
+       finally {
+           System.out.println("this will always be printed");
+       }
     }
 }
