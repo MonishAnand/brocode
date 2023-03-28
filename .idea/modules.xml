@@ -48,6 +48,7 @@
       <module fileurl="file://$PROJECT_DIR$/44-Exception handling/44-Exception handling.iml" filepath="$PROJECT_DIR$/44-Exception handling/44-Exception handling.iml" />
       <module fileurl="file://$PROJECT_DIR$/45-Fileclass/45-Fileclass.iml" filepath="$PROJECT_DIR$/45-Fileclass/45-Fileclass.iml" />
       <module fileurl="file://$PROJECT_DIR$/46-Filewriter/46-Filewriter.iml" filepath="$PROJECT_DIR$/46-Filewriter/46-Filewriter.iml" />
+      <module fileurl="file://$PROJECT_DIR$/47-filereader/47-filereader.iml" filepath="$PROJECT_DIR$/47-filereader/47-filereader.iml" />
     </modules>
   </component>
 </project>
